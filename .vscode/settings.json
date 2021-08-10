@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#8d3afe",
+        "activityBar.activeBorder": "#fe9141",
+        "activityBar.background": "#8d3afe",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#fe9141",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#7007fe",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#8d3afe",
+        "titleBar.activeBackground": "#7007fe",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#7007fe99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#7007fe",
+    "cSpell.words": [
+        "Taskinator"
+    ]
+}
